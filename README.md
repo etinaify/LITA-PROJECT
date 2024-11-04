@@ -19,4 +19,4 @@ Sum of revenue was calculated using the formula - Unit price* quantity
 Monthly of sales was calculated using the formula - TEXT(B2, "MMMM")
 
 Average sales per product was calculated using Averageif function.
-
+compressed_1730729201247.jpeg
