@@ -20,3 +20,12 @@ Monthly of sales was calculated using the formula - TEXT(B2, "MMMM")
 
 Average sales per product was calculated using Averageif function.
 compressed_1730729201247.jpeg
+
+![image](https://github.com/user-attachments/assets/afdac22b-3e83-4861-a723-cada0bfc6947)
+
+![image](https://github.com/user-attachments/assets/8a2765e6-e6db-4448-b677-a5b7ca905046)
+
+![image](https://github.com/user-attachments/assets/faaddea9-ee30-475c-b9c8-27d0e42adb78)
+
+
+
