@@ -25,9 +25,22 @@ compressed_1730729201247.jpeg
 
 ![image](https://github.com/user-attachments/assets/8a2765e6-e6db-4448-b677-a5b7ca905046)
 
-![image](https://github.com/user-attachments/assets/faaddea9-ee30-475c-b9c8-27d0e42adb78)
-
 ![image](https://github.com/user-attachments/assets/a27f43d2-67a9-4430-acaf-97212e72ebbb)
+
+![image](https://github.com/user-attachments/assets/07a43aa9-cf94-42d3-bcc0-89f3463d5033)
+
+
+![image](https://github.com/user-attachments/assets/5a8a5602-95ac-4e6f-a0e1-aeb8884eb1f3)
+
+![image](https://github.com/user-attachments/assets/6cc13c2a-7767-4736-b975-4667f62b56d1)
+
+![image](https://github.com/user-attachments/assets/8ac6735f-e0e2-460b-b4f5-a5dcede48465)
+
+![image](https://github.com/user-attachments/assets/a53775a8-b346-4072-8216-580b46195a0f)
+
+
+
+
 
 
 
