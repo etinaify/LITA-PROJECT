@@ -38,7 +38,9 @@ compressed_1730729201247.jpeg
 
 ![image](https://github.com/user-attachments/assets/a53775a8-b346-4072-8216-580b46195a0f)
 
-![image](https://github.com/user-attachments/assets/f53fe21e-f283-4c4b-ba62-564352bd16b0)
+
+![image](https://github.com/user-attachments/assets/aa4f3b47-4c42-4e17-aeb0-b01f488f085b)
+
 
 
 
