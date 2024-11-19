@@ -25,6 +25,11 @@ compressed_1730729201247.jpeg
 
 ![SNAPSHOT 1](https://github.com/user-attachments/assets/7fe21514-7e65-4059-857a-e42a7d593722)
 
+![image](https://github.com/user-attachments/assets/2b2a8cb8-0087-44fb-8c9d-4cf1b74c0fd5)
+
+![image](https://github.com/user-attachments/assets/25987adc-79c5-4aa4-971b-c9cde091085a)
+
+
 
 
 
